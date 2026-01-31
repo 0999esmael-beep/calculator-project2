@@ -1,0 +1,8 @@
+Core Concepts of Biology
+- Definition: Biology is the scientific study of life and living organisms.
+- Scope: It covers structure, function, growth, evolution, distribution, and classification of living things.
+- Levels of Study:
+- Molecular (DNA, proteins, enzymes)
+- Cellular (cell structure and processes)
+- Organismal (plants, animals, humans)
+- Ecological (ecosystems, populations, interactions)
